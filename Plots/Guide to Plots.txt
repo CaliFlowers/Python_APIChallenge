@@ -1,0 +1,31 @@
+Guide to Plots
+
+Plot 1.1: This plot shows what might be called a U-dhaped curve where temperaures are recorded to be highest around the equator (0) with a decline as one moves north or south to higher latitudes. 
+
+Plot 1.2: The plot of humidity against latitude is considerably noisier with no visible trend at face-value.
+#Of particular note is that the variability appears high avross latitudes; but disappears as one crosses north of the Equator (0). Unlike with temperature, thereappears to be no differential trend beteen hemispheres. 
+
+Plot 1.3: Recorded cloud cover is more peculiar. There are observable clusters at 20, 40, and 80 percent cloyd cover; but these appear to have no relation to latitude. At least mathematically, there appears to be a different factor at work,
+
+Plot 1.4: Once again, there is no visually discernible trend for wind speed vis-a-vis latitude in this plot. 
+Of note is what appears to be two mid-latitude spikes: one in  in each hemisphere. These appear to coincide with the geographic characteristics of these latitudes. 
+
+#Plot 2.1: with data from just one hemisphere, latitude and temperature begin to appear to have a strong consistent relationship. From the plot, it appears to be a negative correlation where temperature falls as one approaches higher latitudes.
+
+
+Plot 3.1: This plot mirrors Plot 2.1 in showing a clear correlation between lower latitudes and higher temperatures; but this plot demonstrates the same trend for negative southern latitudes. 
+
+Plot 2.1 Focusing on humidity data from one hemisphere reveals a potential trend overlooked in Plot 1.2. In lower latitudes in the Northern Hemisphere, humidoty appears to have a large amount of dispersion between low and high values owing to the presence of both tropical rainforests and large deserts ibetween 10 and 30 degrees Latitude. In higher northern latitudes, this dispersion gives way to relatively uniform high amounts of humidity 
+
+#Plot 3.2: Unlike with temperature, the trend for humidity in the Southern Hemisphere does not mirror that in the Northern Hemisphere (plot 2.2). The dispersions appear to be fairly random with no clear trend standing out; although humidity appers to be cosistently high throughout the Southern Hemisphere regardless of latitude. 
+
+Plot 2.3 des not show much difference from Plot 1.3. Cloudiness in the Northern Hemisphere still pretty much appears in 
+#clusters that seem to have nothing to do with latitude. 
+
+Plot 3.3: This plot echoes Plot 2.3 from the Northern Hemisphere in that there is no discernable trend. There are fewer clusters in Southern Hemisphere data ; but these clusters still appear to have little to do with cloudiness. 
+
+Plot 2.4: High wind sppeds are often associated with abnormally destructive events; but they appear to be fairly common between 60 and 70 degrees in Northern Latitude. This makes more sense when one considrs these ;atitudes to coincide with the vast empty expanses of Canada and Siberia, both known fors trong intertime Northern winds.Regardless, wind speed appears to be largely independent of latitude; and appears toremain consistently below 10 mph for most cases.  
+
+#Plot 3.4: As in the NorthernHemisphere, wind speeds below 10mph ppear to be the norm in the Southern Hemisphere as well. The interesting exception
+#being the narrow band between -30 and -40 degrees in Latitude. These latitudes overlap with significant expanses of ocean, which is one possible explanation
+#Africa's savannah, South America's Pampas, and Australia's desert may also account for some of this deviation. 

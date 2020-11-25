@@ -1,3 +1,6 @@
+Applied Data Analysis with Weather Data using APIs
+
+
 Application Programming Interfaces (APIs) defines interactions between multiple intermediaries. In this case, APIs allow for the collection of data from third party software services such as OpenWeather and GoogleMaps to produce datasets
 for analysis and maps for visualization of data. The two examples in this repository demonstrate these functionalities. WeatherPy demonstrates the retrieval of data through APIs; while VacationPy demonstrates the utility of the Google Maps API in
 visualizing that data. 

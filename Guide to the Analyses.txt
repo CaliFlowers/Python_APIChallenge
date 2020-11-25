@@ -1,0 +1,47 @@
+#Equation 1.1: Plot 1.1 obscured the relationship between Latitude and Temperature due to U-shaped trend as one crosses the Equator. Focusing our analysis on only the Northern Hemisphere reveals a stron relationship (r=0.877).
+#The regression equation, with a coefficient of determination of 0.768, this equation accounts for 76.84 percent of the variance in temepratures calculated from the mean temperature value. 
+#Assuming no other variables are t work in determining temperature, this eqation predicts an average temperature of 90.62F at the Equator with an average decrease of 1.114F for every degree of latitude one moves north.
+
+y = -1.11x + 90.62 r = -0.877; r^2 = 0.768
+
+Equation 2.1: As with Equation 1.1 in the Northern Hemisphere, the mathematical relationship between Latitude and Temperature is robust, albeit weaker, in the Southern Hemisphere (r=0.546). 
+The regression equation, with a coefficient of determination of 0.298, this equation accounts for 29.78 percent of the variance in temepratures calculated from the mean temperature value. 
+Assuming no other variables are t work in determining temperature, this eqation predicts an average temperature of 83.228F at the Equator with an average decrease of 0.499F fo every degree of latitude one moves south. 
+
+y = 0.5x + 83.23; r = 0.546; r^2 = 0.298
+
+Equation 1.2: While not as strong as the relationship between temperature, and latitude; there is evidence of a moderate positive relationship between humidity and latitude in the Northern Hemisphere (r=0.3542)
+With a coefficient of determination of 0.2978, this relationship accounts for 29.782 percent of the variance in recorded humidity in the Northern Hemisphere. 
+At the Equator, this equation predicts an average humidity of 61.531 percent; and expects an average increase of 0.354 percent for every degree of laitude one moves further north. 
+
+y = 0.34x + 61.53; r = 0.354; r^2 = 0.125
+
+Equation 2.2: The relationship between humidity and latitude in the Southern Hemisphere is a fairly weak positive one (r=0.1765) in that humidity tends to rise slightly, on average, with higher latitudes going north. 
+With a coefficient of determination of 0.0311, this weak relationship accounts for only 3.111 percent of the variability in humidity in the Southern Hemisphere. 
+On average, the data expects an average of 65.129 percent humidity at the Equator; and predics an average increase of 24.27percent in humidity for every degree of latitude one moves further south,
+
+y = 0.24x + 75.65; r = 0.176; r^2 = 0.031
+
+Equation 1.3: The best way to summarizre the relationship between cloudiness and latitude IN THE NORTHERN HEMISPHERE is that it barely exists at all. (r=0.257)
+The coefficient of determination for this linear relatonship is 0.066 which means the relationship between latitude and variability in the Northern Hemisphere only accounts for 6.5934 percent of the total variability measured in cloudiness. 
+At the equator, the regression equation expects, on average, about 53.5791 percent cloudy skies with an average increase of .5119 percent for every degree one moves further north.
+
+The equation of the line is: y = 0.51x + 33.58; r = 0.257; r^2 = 0.066
+
+Equation 2.3: IN THE SOUTHERN HEMISPHERE, the statistical relationship between latitude and cloudiness is even weaker(r=0.806)
+The coefficient of determination of 0.00649 means thatthis relationship barely improves on the mean in terms of explaining the variability in cloudiness. The regression equatione xpects, on average, 56.624 percent cloud cover at the Equator
+with an expect edrise of 0.239 percent in cloudiness for everydegree in latitude one moves further south.
+
+y = 0.24x + 56.62; r = 0.081; r^2 = 0.006
+
+Equation 1.4: There is a weak statistical relationship between Wind Speed and Latitude in the Northern Hemisphere as these two variables appear to have a weak positive correlation. (r=0.245)
+With a coefficient of determination of 0.0602, this regression only corrects 6.02 percent of the total deviation from the mean wind speed.  
+This regression equation predicts an average wind speed of 5.274mph at the Equator; and expects an average increase of 0.0688mph for every degree in Latitude one moves further north. 
+
+y = 0.07x + 5.27; r = 0.245; r^2 = 0.06
+
+Equation 2.4: the following equation demonstrates that wind speed and latitude share only a weak, if any, mathematical relationship in this dataset (r=-0.219)
+With a coefficient of determination of 0.048, this regressionn equation explains only 4.79 percent of the variability in wind speedcalculated from the mean wind speed, and suggests that this contribution may have been arrived at by chance.
+The equation predicts that wind speed would be 5.821 miles per hour at the Equator and expects a decrease of 0.0936 mph for every degree further south one measures. 
+
+ y = -0.09x + 5.82; r = -0.219; r^2 = 0.048

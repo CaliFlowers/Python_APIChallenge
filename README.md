@@ -11,8 +11,11 @@ I have demondtrated the utility of these two tools before  for the handling and 
 
 Latitude versus Temperature
 It is more or less common knowledge that climate tends to trend on the hotter side as one moves closer to the lower latitudes closer to the equator. This regression tests that notion and suggests it to be generally true.
- The relationship between the two is robust in both Northern (r= -0.877), and Southern (r= 0.546) hemispheres. Plot 1.1 demonstatrates the U-shaped trend as higher temperatures are recorded  around the Equator then consistently decline as one moves further toward the Poles. This trend is elaborated upon by Plots 2.1 and 3.1. 
- ![](Plots/Plot2-1.png)
+ The relationship between the two is robust in both Northern (r= -0.877), and Southern (r= 0.546) hemispheres. Plot 1.1 demonstatrates the U-shaped trend as higher temperatures are recorded  around the Equator then consistently decline as one moves further toward the Poles. 
+ ![](Plots/Plot_1-1.png)
+ This trend is elaborated upon by Plots 2.1 and 3.1. 
+ ![](Plots/Plot_2-1.png)
+ ![](Plots/Plot_3.1.png)
 Equations 1.1 and 2.1 express these trends in mathematical terms. 
 
 Latitude versus Humidity
